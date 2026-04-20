@@ -16,10 +16,10 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: #000;
-  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei",
-    "Helvetica Neue", Arial, sans-serif;
-  color: #fff;
+  background: #f6f9fc;
+  font-family: "sohne-var", "SF Pro Display", -apple-system, BlinkMacSystemFont,
+    "PingFang SC", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif;
+  color: #061b31;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   user-select: none;
