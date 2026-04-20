@@ -108,7 +108,7 @@ function renderNews() {
     card.dataset.id = item.id;
     card.innerHTML = `
       <div class="news-cover">
-        <div class="news-cover-bg" style="background:linear-gradient(145deg,${item.color[0]},${item.color[1]})"></div>
+        <div class="news-cover-bg" style="background:${item.color[0]}"></div>
         <span class="news-cover-ico">${item.ico}</span>
         <span class="play-indicator">⏸</span>
       </div>

@@ -16,10 +16,10 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: #f6f9fc;
-  font-family: "sohne-var", "SF Pro Display", -apple-system, BlinkMacSystemFont,
+  background: #000000;
+  font-family: "SF Pro Text", "SF Pro Display", "SF Pro Icons", -apple-system, BlinkMacSystemFont,
     "PingFang SC", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif;
-  color: #061b31;
+  color: #f5f5f7;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   user-select: none;
